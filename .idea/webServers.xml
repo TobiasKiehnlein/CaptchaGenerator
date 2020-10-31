@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="adf2e69e-1c55-410e-8a69-459b1d88c7da" name="kiehnlein.com" url="http://kiehnlein.com">
+        <fileTransfer rootFolder="/CaptchaGenerator" accessType="SFTP" host="ssh.strato.de" port="22" sshConfigId="3cb4a43e-c5bc-4018-bfc6-38f8fd554a29" sshConfig="kiehnlein.com@ssh.strato.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
