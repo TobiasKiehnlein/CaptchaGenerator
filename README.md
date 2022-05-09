@@ -1,4 +1,7 @@
 # Captcha Generator
+
+Simple project that generates captchas in the browser. [Try it out!](https://tobiaskiehnlein.github.io/CaptchaGenerator/)
+
 ## Setup
 Install dependencies using `npm install`.
 Run the application locally using `npm start`.
