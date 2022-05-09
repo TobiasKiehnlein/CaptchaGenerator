@@ -1,0 +1,29 @@
+body {
+    background: #222;
+    color: white;
+}
+
+canvas {
+    position: absolute;
+    top: 30vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+}
+
+#title {
+    position: absolute;
+    top: 50px;
+    left: 50vw;
+    transform: translateX(-50%);
+}
+
+button {
+    position: absolute;
+    bottom: 50px;
+    left: 50vw;
+    transform: translateX(-50%);
+}
+
+button:nth-of-type(2) {
+    bottom: 100px;
+}
